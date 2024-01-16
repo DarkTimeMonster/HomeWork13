@@ -22,10 +22,10 @@
                 case 1:
                     Console.WriteLine("Правильно");
                     break;
-                case 1':
+                case 2:
                     Console.WriteLine("Неправильно");Console.Write("В двоичной знаковой системе");
                     break;
-                case 1:
+                case 3:
                     Console.WriteLine("Неправильно");Console.Write("В двоичной знаковой системе");
                     break;
             
